@@ -1,5 +1,5 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
-![Cesar Emiliano GERACE](./assets/gerace)
+![Cesar Emiliano GERACE](./assets/gerace.jpg)
 
 Bienvenidos a
 # Presentación personal
