@@ -1,35 +1,22 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+![Cesar Emiliano GERACE](./assets/gerace)
 
 Bienvenidos a
-# Programación con objetos I
+# Presentación personal
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Acá vas a encontrar un poco de detalle de mi experiencia profesional y mi formación.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+## Formación
+:student: Técnico electrónico, de la vieja técnica, egresado en 2001.
+:man_student: Estudiante de ingeniería electrónica frustrado.
+:books: Tengo sólido formación en el campo de la metrología y cálculo de incertidumbres.
+:keyboard: AMATEUR en el ámbito de la programación, con algo de conocimiento en VBA que utilizo en Excel para automatizar planillas laborales.
+:keyboard: SUPER AMATEUR en el ámbito de la programación en ARDUINO, con algunos pequeños proyectos relacionados a la medición de temperatura, humedad y registro de las mismas.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Experiencia profesional
+- [x] :man_scientist: [CES SA](www.ces-sa.com.ar) Desarrollando mis primeros pasos en metrologia hasta quedar a cargo del area encargada del area metrologica. 
+- [x] :atom_symbol: [Comisión Nacional de Energía Atómica - LCIM](https://www.argentina.gob.ar/cnea) Mi trabajo actual. Supervisor técnico del Laboratorio LCIM, que realiza calibraciones para toda CNEA.
+- [x] :heavy_check_mark: [Organismo Argentino de Acreditación](https://oaa.org.ar/) Desarrollo tareas como Experto Técnico en la especialidad de productos eléctricos, eficiencia energética y encendedores,
+y como Evaluador Técnico en Laboratorios de Calibración en la especialidad de dimensional, masa, temperatura, electricidad.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
